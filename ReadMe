@@ -14,3 +14,9 @@ allowing for a user to jump between the index and about page as well as the cont
 /main.css page
 The css page contains the css for the entire website altering paragraphs images and headers so that the format is consistent
 across each page and easily contained in one css file.
+
+/me.jpeg
+An image of myself for the index page.
+
+/ice.jpg
+An image of a truck for my about page.
