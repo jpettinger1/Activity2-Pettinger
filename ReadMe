@@ -1,0 +1,16 @@
+ISQA 3900 Activity 2 by Jacob Pettinger
+
+/The index Page
+The index page is the main page of the website it contains general information about myself along with a picture and serves
+as an introductory page to the website. It contains several links, one of which connects it to itself and works as a refresh.
+The second link leads to the about me page. At the bottom of the page there are a couple more links which lead to personal
+contact information and an email address.
+
+/The about page
+The about page contains additional information about myself, this information is more personal and less business related.
+It also contains an additional picture relating to myself. The about page contains the same hyperlinks as the index page
+allowing for a user to jump between the index and about page as well as the contact information listed previously.
+
+/main.css page
+The css page contains the css for the entire website altering paragraphs images and headers so that the format is consistent
+across each page and easily contained in one css file.
