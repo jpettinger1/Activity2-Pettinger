@@ -1,0 +1,16 @@
+a {
+    text-align: center;
+}
+header {
+    padding: 20px;
+    text-align: center;
+    background: darkblue;
+    color: white;
+    font-size: 30px;
+}
+ul {
+    list-style-type: none;
+    border: black 1px solid;
+    margin: 0;
+    padding: 0;
+}
